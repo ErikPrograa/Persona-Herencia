@@ -1,0 +1,3 @@
+C:/Users/Erik/CLionProjects/Persona Herencia/cmake-build-debug/CMakeFiles/Persona_Herencia.dir
+C:/Users/Erik/CLionProjects/Persona Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erik/CLionProjects/Persona Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
